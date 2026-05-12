@@ -1,6 +1,7 @@
 # Hi, I'm Kitipat 👋
 
 Statistics graduate with Second-Class Honors (GPA 3.44) passionate about Data Analytics, Business Intelligence, and AI-assisted solutions.
+Seeking a Data Analyst or Business Analyst role.
 
 ## Skills
 - Python
