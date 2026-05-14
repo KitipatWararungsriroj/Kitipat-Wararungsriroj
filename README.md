@@ -25,3 +25,4 @@ Seeking a Data Analyst or Business Analyst role.
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/kitipat-wararungsriroj-129881337
 - Email: ktpshane@gmail.com
+- Tel: 065-5599891
